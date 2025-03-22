@@ -1,3 +1,7 @@
+#Profile Card
+it is an program that is used to make profile card that contains an photo,an intro,and skills
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
